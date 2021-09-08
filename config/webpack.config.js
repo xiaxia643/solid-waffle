@@ -1,5 +1,7 @@
 'use strict';
 
+// https://sapandiwakar.in/multiple-html-pages-with-create-react-app-app/
+
 const fs = require('fs');
 const path = require('path');
 const webpack = require('webpack');
