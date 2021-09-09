@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: 'Roboto Mono',monospace;
+  font-family: 'Roboto Mono', 'Times New Roman', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
