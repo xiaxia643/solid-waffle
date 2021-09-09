@@ -1,2 +1,0 @@
-(this["webpackJsonpsolid-waffle"]=this["webpackJsonpsolid-waffle"]||[]).push([[2],{24:function(e,t,n){"use strict";n.r(t);var s=n(0),i=n.n(s),c=n(3),d=n.n(c),o=(n(25),n(1));d.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)("div",{id:"test",children:"Test"})}),document.getElementById("root"))},25:function(e,t,n){}},[[24,4,0]]]);
-//# sourceMappingURL=randomQuoteMachine.53fc22db.chunk.js.map
