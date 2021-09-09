@@ -6,7 +6,6 @@ function App() {
     <div className="app">
       <span className="app-title">FreeCodeCamp</span>
       <a
-        className="App-link"
         href="/solid-waffle/pages/randomQuoteMachine/"
         target="_blank"
         rel="noopener noreferrer"
