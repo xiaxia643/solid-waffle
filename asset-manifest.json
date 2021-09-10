@@ -1,35 +1,35 @@
 {
   "files": {
-    "static/js/0.8307d4d7.chunk.js": "/solid-waffle/static/js/0.8307d4d7.chunk.js",
-    "static/js/0.8307d4d7.chunk.js.map": "/solid-waffle/static/js/0.8307d4d7.chunk.js.map",
+    "static/js/0.b33f6305.chunk.js": "/solid-waffle/static/js/0.b33f6305.chunk.js",
+    "static/js/0.b33f6305.chunk.js.map": "/solid-waffle/static/js/0.b33f6305.chunk.js.map",
     "index.css": "/solid-waffle/static/css/index.b9602b68.chunk.css",
-    "index.js": "/solid-waffle/static/js/index.1c3ab782.chunk.js",
-    "index.js.map": "/solid-waffle/static/js/index.1c3ab782.chunk.js.map",
-    "randomQuoteMachine.css": "/solid-waffle/static/css/randomQuoteMachine.65e4e89e.chunk.css",
-    "randomQuoteMachine.js": "/solid-waffle/static/js/randomQuoteMachine.68419009.chunk.js",
-    "randomQuoteMachine.js.map": "/solid-waffle/static/js/randomQuoteMachine.68419009.chunk.js.map",
+    "index.js": "/solid-waffle/static/js/index.1e38b7b0.chunk.js",
+    "index.js.map": "/solid-waffle/static/js/index.1e38b7b0.chunk.js.map",
+    "randomQuoteMachine.css": "/solid-waffle/static/css/randomQuoteMachine.35d4ece8.chunk.css",
+    "randomQuoteMachine.js": "/solid-waffle/static/js/randomQuoteMachine.abecfa87.chunk.js",
+    "randomQuoteMachine.js.map": "/solid-waffle/static/js/randomQuoteMachine.abecfa87.chunk.js.map",
     "runtime-index.js": "/solid-waffle/static/js/runtime-index.c9591a7e.js",
     "runtime-index.js.map": "/solid-waffle/static/js/runtime-index.c9591a7e.js.map",
     "runtime-randomQuoteMachine.js": "/solid-waffle/static/js/runtime-randomQuoteMachine.ddeb1b61.js",
     "runtime-randomQuoteMachine.js.map": "/solid-waffle/static/js/runtime-randomQuoteMachine.ddeb1b61.js.map",
-    "static/js/5.4d1a33a9.chunk.js": "/solid-waffle/static/js/5.4d1a33a9.chunk.js",
-    "static/js/5.4d1a33a9.chunk.js.map": "/solid-waffle/static/js/5.4d1a33a9.chunk.js.map",
+    "static/js/5.84636a82.chunk.js": "/solid-waffle/static/js/5.84636a82.chunk.js",
+    "static/js/5.84636a82.chunk.js.map": "/solid-waffle/static/js/5.84636a82.chunk.js.map",
     "index.html": "/solid-waffle/index.html",
     "pages/randomQuoteMachine/index.html": "/solid-waffle/pages/randomQuoteMachine/index.html",
     "static/css/index.b9602b68.chunk.css.map": "/solid-waffle/static/css/index.b9602b68.chunk.css.map",
-    "static/css/randomQuoteMachine.65e4e89e.chunk.css.map": "/solid-waffle/static/css/randomQuoteMachine.65e4e89e.chunk.css.map",
-    "static/js/0.8307d4d7.chunk.js.LICENSE.txt": "/solid-waffle/static/js/0.8307d4d7.chunk.js.LICENSE.txt",
-    "static/js/5.4d1a33a9.chunk.js.LICENSE.txt": "/solid-waffle/static/js/5.4d1a33a9.chunk.js.LICENSE.txt"
+    "static/css/randomQuoteMachine.35d4ece8.chunk.css.map": "/solid-waffle/static/css/randomQuoteMachine.35d4ece8.chunk.css.map",
+    "static/js/0.b33f6305.chunk.js.LICENSE.txt": "/solid-waffle/static/js/0.b33f6305.chunk.js.LICENSE.txt",
+    "static/js/5.84636a82.chunk.js.LICENSE.txt": "/solid-waffle/static/js/5.84636a82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-index.c9591a7e.js",
-    "static/js/0.8307d4d7.chunk.js",
-    "static/js/5.4d1a33a9.chunk.js",
+    "static/js/0.b33f6305.chunk.js",
+    "static/js/5.84636a82.chunk.js",
     "static/css/index.b9602b68.chunk.css",
-    "static/js/index.1c3ab782.chunk.js",
+    "static/js/index.1e38b7b0.chunk.js",
     "static/js/runtime-randomQuoteMachine.ddeb1b61.js",
-    "static/js/0.8307d4d7.chunk.js",
-    "static/css/randomQuoteMachine.65e4e89e.chunk.css",
-    "static/js/randomQuoteMachine.68419009.chunk.js"
+    "static/js/0.b33f6305.chunk.js",
+    "static/css/randomQuoteMachine.35d4ece8.chunk.css",
+    "static/js/randomQuoteMachine.abecfa87.chunk.js"
   ]
 }
